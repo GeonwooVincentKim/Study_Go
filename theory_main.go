@@ -1,8 +1,13 @@
-package theory_main
+package main
 
-// import "fmt"
+import "fmt"
 
 func main() {
 	const name string = "AB"
-	const name1 = "Lynn"
+
+	var newName string = "test"
+	newName = "test1"
+	fmt.Println(newName)
+
+	// const name1 = "Lynn"
 }
