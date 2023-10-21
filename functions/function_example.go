@@ -8,4 +8,5 @@ func multiply(a int, b int) int {
 
 func main() {
 	fmt.Println(multiply(2, 2))
+	fmt.Println(multiply(2, 2))
 }
